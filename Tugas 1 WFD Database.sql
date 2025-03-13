@@ -149,15 +149,15 @@ CREATE TABLE IF NOT EXISTS `users` (
 
 -- Dumping data for table db_tugas1_wfd.users: ~9 rows (approximately)
 INSERT INTO `users` (`id`, `name`, `username`, `email`, `email_verified_at`, `password`, `remember_token`, `created_at`, `updated_at`) VALUES
-	(1, 'Kabochamasuku', 'Kabochamasuku', 'KMasuku@gmail.com', '2025-03-08 08:16:07', '$2y$10$uogsHhcyPYy2PHvoj8cVK.sgvIsvqbTLk6uUMeuXReqN6NKN5Sr3S', 'tNJup5Xuak', '2025-03-08 08:16:07', '2025-03-08 08:16:07'),
-	(2, 'Jogi Shiraishi', 'Jogi Shiraishi', 'JShira@gmail.com', '2025-03-08 08:16:07', '$2y$10$cUXbJr6N42gEwRw0r2zmEe2yI4Rb5bbc49f.z6OsPRkAnMXBtIkqK', 'UaVCmPlmKx', '2025-03-08 08:16:07', '2025-03-08 08:16:07'),
+	(1, 'Kabochamasuku', 'Kabochamasuku', 'KMasuku@gmail.com', '2025-03-08 08:16:07', '$2y$10$uogsHhcyPYy2PHvoj8cVK.sgvIsvqbTLk6uUMeuXReqN6NKN5Sr3S', 'tNJup5Xuak', '2025-03-10 08:16:07', '2025-03-10 08:16:07'),
+	(2, 'Jogi Shiraishi', 'Jogi Shiraishi', 'JShira@gmail.com', '2025-03-08 08:16:07', '$2y$10$cUXbJr6N42gEwRw0r2zmEe2yI4Rb5bbc49f.z6OsPRkAnMXBtIkqK', 'UaVCmPlmKx', '2025-03-09 08:16:07', '2025-03-09 08:16:07'),
 	(3, 'Harunohi Biyori', 'Harunohi Biyori', 'HBiyori@gmail.com', '2025-03-08 08:16:07', '$2y$10$XtfBYFggegrQafLvs54ve.HVuHesRdryyZ8fLW099E.mfYyRFIJyC', 'f36UQoixhI', '2025-03-08 08:16:07', '2025-03-08 08:16:07'),
-	(4, 'Konatsu Wakioka', 'Konatsu Wakioka', 'KWaki@gmail.com', '2025-03-08 08:16:07', '$2y$10$.2CCeGB0/mnuehGUWuZ9Lu9dYVW/sYYIkxBPR6eydn/WOg4d20J2.', 'pKiT35qJvJ', '2025-03-08 08:16:07', '2025-03-08 08:16:07'),
-	(5, 'Nana Nanana', 'Nana Nanana', 'Nanana@gmail.com', '2025-03-08 08:16:07', '$2y$10$27XYzFo71mQctCnZwopt3O9oUFkb0ZFB6l5tihqkexXpr.aoyhfPa', '29kIxHXgQd', '2025-03-08 08:16:07', '2025-03-08 08:16:07'),
-	(6, 'Matsuri Isora', 'Matsuri Isora', 'Matsora@gmail.com', '2025-03-08 08:16:07', '$2y$10$Swif5S2cSAdXC0FNl4Qs5eUDj73dSBmFWzSreAalUx5n1K1gKeK.G', 'Wow9TKaOz6', '2025-03-08 08:16:07', '2025-03-08 08:16:07'),
-	(7, 'Daisuke Aizawa', 'Daisuke Aizawa', 'Daizawa@gmail.com', '2025-03-08 08:16:07', '$2y$10$yiYsx9jpu9ZjD1L3w7oBYOXhU4mPzBc86H9KdktD2JRUDt2pYXoXW', 'sI78ICJUER', '2025-03-08 08:16:07', '2025-03-08 08:16:07'),
-	(8, 'Kinugasa Shougo', 'Kinugasa Shougo', 'Kinugasa@gmail.com', '2025-03-08 08:16:07', '$2y$10$hEyg9XbKTMSNX9u5nKuGgOuz4cw1/Q6S94nnget4rxH1M4yGClUQG', 'Eeg6GbPpQ6', '2025-03-08 08:16:07', '2025-03-08 08:16:07'),
-	(9, 'Yuto Sagami', 'Yuto Sagami', 'YSagami@gmail.com', '2025-03-08 08:16:07', '$2y$10$687QdwLVJSWeBONFRW2ZBuO6v5Qjj.jx3RL6Ou9YqI8MuvzgGPSzi', 'vfSrF3TJ3m', '2025-03-08 08:16:07', '2025-03-08 08:16:07');
+	(4, 'Konatsu Wakioka', 'Konatsu Wakioka', 'KWaki@gmail.com', '2025-03-08 08:16:07', '$2y$10$.2CCeGB0/mnuehGUWuZ9Lu9dYVW/sYYIkxBPR6eydn/WOg4d20J2.', 'pKiT35qJvJ', '2025-03-07 08:16:07', '2025-03-07 08:16:07'),
+	(5, 'Nana Nanana', 'Nana Nanana', 'Nanana@gmail.com', '2025-03-08 08:16:07', '$2y$10$27XYzFo71mQctCnZwopt3O9oUFkb0ZFB6l5tihqkexXpr.aoyhfPa', '29kIxHXgQd', '2025-03-08 06:16:07', '2025-03-08 06:16:07'),
+	(6, 'Matsuri Isora', 'Matsuri Isora', 'Matsora@gmail.com', '2025-03-08 08:16:07', '$2y$10$Swif5S2cSAdXC0FNl4Qs5eUDj73dSBmFWzSreAalUx5n1K1gKeK.G', 'Wow9TKaOz6', '2025-03-05 08:16:07', '2025-03-05 08:16:07'),
+	(7, 'Daisuke Aizawa', 'Daisuke Aizawa', 'Daizawa@gmail.com', '2025-03-08 08:16:07', '$2y$10$yiYsx9jpu9ZjD1L3w7oBYOXhU4mPzBc86H9KdktD2JRUDt2pYXoXW', 'sI78ICJUER', '2025-03-04 08:16:07', '2025-03-04 08:16:07'),
+	(8, 'Kinugasa Shougo', 'Kinugasa Shougo', 'Kinugasa@gmail.com', '2025-03-08 08:16:07', '$2y$10$hEyg9XbKTMSNX9u5nKuGgOuz4cw1/Q6S94nnget4rxH1M4yGClUQG', 'Eeg6GbPpQ6', '2025-03-03 08:16:07', '2025-03-03 08:16:07'),
+	(9, 'Yuto Sagami', 'Yuto Sagami', 'YSagami@gmail.com', '2025-03-08 08:16:07', '$2y$10$687QdwLVJSWeBONFRW2ZBuO6v5Qjj.jx3RL6Ou9YqI8MuvzgGPSzi', 'vfSrF3TJ3m', '2025-03-02 08:16:07', '2025-03-02 08:16:07');
 
 /*!40103 SET TIME_ZONE=IFNULL(@OLD_TIME_ZONE, 'system') */;
 /*!40101 SET SQL_MODE=IFNULL(@OLD_SQL_MODE, '') */;
